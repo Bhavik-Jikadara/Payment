@@ -11,7 +11,7 @@ body{
 }
 .app_conatiner{
     height: 650px;
-    width: 370px;
+    width: 380px;
     background-image: linear-gradient(#580e8f,#9200ff);
     
     transform: absolute;    
