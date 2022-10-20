@@ -17,10 +17,10 @@ body{
     transform: absolute;    
 }
 .top-box{
-    height:150px;
+    height:1200px;
     background-color:#69abc9 ;
-    border-bottom-left-radius: 80px;
-    border-bottom-right-radius: 80px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 90px;
 }
 .top-box p{
     text-align: center;
