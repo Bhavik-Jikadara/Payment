@@ -22,11 +22,7 @@ body{
     border-bottom-left-radius: 90px;
     border-bottom-right-radius: 90px;
 }
-.top-box p{
-    text-align: center;
-    padding-top: 20px;
-    color:rgb(39, 5, 5);
-}
+
 .left-icon{
     float:left;
     margin-left: 30px;
@@ -65,14 +61,6 @@ body{
     background-color: #dc9595;
     border: none;
     cursor:pointer;
-}
-
-.card-details{
-    background: #fff;
-    color: #555;
-    margin: 10px 30px;
-    padding: 10px;
-    font-weight: bold;
 }
 .card-details p{
     font-size: 14px;
